@@ -1,16 +1,45 @@
-# React + Vite
+# Roomify 🏠
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Roomify is a modern frontend web application that helps freshers and job joiners
+find compatible roommates in a new city.
 
-Currently, two official plugins are available:
+The platform allows users to browse roommate listings, filter by preferences,
+add their own listing, and directly contact potential roommates through a clean
+and intuitive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Demo:** https://soft-unicorn-9d763d.netlify.app/  
+🔗 **GitHub Repository:** https://github.com/Mayank-Malviyaa/Roomify-Frontend.git
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Browse roommate listings across different cities
+- Search roommates by name or city
+- Filter by lifestyle (Smoker / Non-Smoker)
+- Filter by occupation (Student / Working)
+- Add new roommate listings
+- Delete listings
+- Contact roommates using a contact modal (Phone, Email, WhatsApp)
+- Dark / Light mode support
+- Fully responsive design
+- Data persistence using browser localStorage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- React Router
+- CSS (custom styling with dark mode)
+- LocalStorage
+- Netlify (deployment)
+
+---
+
+## 🚀 Getting Started (Run Locally)
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mayank-Malviyaa/Roomify-Frontend.git
