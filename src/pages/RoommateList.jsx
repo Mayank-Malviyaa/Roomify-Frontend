@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import defaultRoommates from "../data/dummyData";
+import defaultRoommates from "../data/dummydata";
 import RoommateCard from "../components/RoommateCard";
 
 function RoommateList() {
